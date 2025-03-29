@@ -63,3 +63,4 @@ public class ExaminerServiceImpl implements ExaminerService {
                 .orElseThrow(() -> new IllegalStateException("Нет доступных сервисов вопросов"));
     }
 }
+

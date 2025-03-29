@@ -8,3 +8,4 @@ public interface QuestionRepository {
     Question remove(Question question);
     Set<Question> getAll();
 }
+

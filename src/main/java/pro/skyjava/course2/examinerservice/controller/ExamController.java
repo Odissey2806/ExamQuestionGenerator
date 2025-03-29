@@ -20,3 +20,4 @@ public class ExamController {
         return examinerService.getQuestions(amount);
     }
 }
+
