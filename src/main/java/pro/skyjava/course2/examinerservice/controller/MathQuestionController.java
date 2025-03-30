@@ -32,3 +32,4 @@ public class MathQuestionController {
         return mathQuestionService.getAll();
     }
 }
+

@@ -39,3 +39,4 @@ class JavaQuestionServiceTest {
                 () -> javaQuestionService.getRandomQuestion());
     }
 }
+
